@@ -1,7 +1,7 @@
 # android-base
 Android Base for Android Development 
 
-[ ![Download](https://api.bintray.com/packages/ctrlyati/maven/android-base/images/download.svg?version=0.1.1) ](https://bintray.com/ctrlyati/maven/android-base/0.1.1/link)
+[ ![Download](https://api.bintray.com/packages/ctrlyati/maven/android-base/images/download.svg) ](https://bintray.com/ctrlyati/maven/android-base/_latestVersion)
 
 # Installation
 
