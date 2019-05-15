@@ -35,7 +35,7 @@ android {
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 28
-        versionCode 1000000
+        versionCode 1001000
         versionName "0.1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -178,6 +178,10 @@ install {
             }
         }
     }
+}
+
+tasks.withType(Javadoc).all {
+    enabled = false
 }
 
 task sourcesJar(type: Jar) {
