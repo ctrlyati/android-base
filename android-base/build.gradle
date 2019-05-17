@@ -17,7 +17,7 @@ ext {
     siteUrl = 'https://github.com/ctrlyati/android-base'
     gitUrl = 'https://github.com/ctrlyati/android-base.git'
 
-    libraryVersion = '0.1.1'
+    libraryVersion = '0.1.2'
 
     developerId = 'ctrlyati'
     developerName = 'Yati Dumrongsukit'
@@ -35,8 +35,8 @@ android {
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 28
-        versionCode 1001000
-        versionName "0.1.1"
+        versionCode 1002000
+        versionName "0.1.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
