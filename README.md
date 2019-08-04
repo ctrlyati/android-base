@@ -15,7 +15,7 @@ compile 'app.ctrlyati.base:android-base:0.1.3'
 <dependency>
 	<groupId>app.ctrlyati.base</groupId>
 	<artifactId>android-base</artifactId>
-	<version>0.1.2</version>
+	<version>0.1.3</version>
 	<type>pom</type>
 </dependency>
 ```
