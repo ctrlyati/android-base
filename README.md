@@ -7,7 +7,7 @@ Android Base for Android Development
 
 ### gradle
 ```
-compile 'app.ctrlyati.base:android-base:0.1.2'
+compile 'app.ctrlyati.base:android-base:0.1.3'
 ```
 
 ### maven
